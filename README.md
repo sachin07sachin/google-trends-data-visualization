@@ -1,7 +1,7 @@
 # Google Trends and Data Visualisation
 
 ## Overview
-This project analyzes search interest data using Google Trends to understand how public interest in specific topics changes over time.  
+This project analyzes Google Trends search interest data using a Jupyter Notebook to understand how public interest in specific topics changes over time.  
 The notebook performs exploratory data analysis (EDA) and visualization to uncover:
 
 - Trends in search popularity over time  
